@@ -2,6 +2,7 @@
   "name": "live-coding-ejt-project1",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "dependencies": {
     "csv-parse": "^5.2.0",
