@@ -1,0 +1,9 @@
+- repos
+	- https://github.com/edwardtanguay/qtools
+	- https://github.com/edwardtanguay/live-coding-ejt-project1
+
+- commands
+	- git submodule add git@github.com:edwardtanguay/qtools.git qtools
+
+
+- install dependencies for a GitHub submodule: https://stackoverflow.com/questions/21363314/npm-install-dependencies-of-a-git-submodule
