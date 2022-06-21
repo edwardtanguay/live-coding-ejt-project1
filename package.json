@@ -1,7 +1,6 @@
 {
   "name": "live-coding-ejt-project1",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
   "main": "index.js",
   "devDependencies": {},
@@ -10,5 +9,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardtanguay/live-coding-ejt-project1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edwardtanguay/live-coding-ejt-project1/issues"
+  },
+  "homepage": "https://github.com/edwardtanguay/live-coding-ejt-project1#readme",
+  "description": ""
 }
